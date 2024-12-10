@@ -28,7 +28,7 @@ Además, ¡el hosting está incluido! Así, puedes concentrarte en lo que realme
 
 
 ## Habilidades y conocimientos
-AA lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
+A lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
 
 He perfeccionado el uso de herramientas clave para el desarrollo web, como Visual Studio Code, Git, GitHub, Postman y Amazon AWS. Además, integro metodologías ágiles de trabajo colaborativo como Scrum, Kanban y Design Thinking, lo que me permite abordar proyectos con eficiencia y creatividad.
 
