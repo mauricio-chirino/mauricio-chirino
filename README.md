@@ -22,6 +22,8 @@
 
 [tuwebfacil.cl ](https://tuwebfacil.cl): es la herramienta perfecta para que las pequeñas y medianas empresas creen su propio sitio web de manera rápida y sencilla. Con nuestras plantillas personalizables, no necesitas ser un experto en tecnología para tener una presencia profesional en línea. 
 
+[sievertpropiedades.cl ](https://sievertpropiedades.cl): es una plataforma en línea para la publicación y búsqueda de propiedades inmobiliarias especialmente en Chile.
+
 Además, ¡el hosting está incluido! Así, puedes concentrarte en lo que realmente importa: hacer crecer tu negocio, mientras nosotros nos encargamos de los aspectos técnicos. Con tu webfacil, tendrás todo lo que necesitas para que tu empresa brille en Internet, sin complicaciones.
 
 
