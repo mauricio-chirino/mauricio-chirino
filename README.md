@@ -45,7 +45,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg)](https://www.linkedin.com/in/mauricio-chirino/)
+
 
 
 
