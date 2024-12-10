@@ -49,7 +49,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 
 
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mauricio-chirino)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg)](https://www.linkedin.com/in/mauricio-chirino/))
 
 
 
