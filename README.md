@@ -32,7 +32,7 @@ A lo largo del tiempo, he desarrollado habilidades en el desarrollo Full Stack u
 
 Además, he dominado herramientas esenciales para el desarrollo web como VsCode, Git, GitHub, Postman y Amazon AWS. No solo me he enfocado en las habilidades técnicas, sino que también he aprendido metodologías de trabajo colaborativo como Scrum, Kanban y Design Thinking, lo que me prepara para abordar proyectos de manera efectiva y creativa.
 
-También he recibido formación en DevOps para la creación y manejo de infraestructura, usando herramientas como Proxmox, Docker, Kubernetes, Sonatype Nexus, Jenkins y Terraform.
+También he recibido formación en DevOps por la universidad nacional de Cordoba para la creación y manejo de infraestructura, usando herramientas como Proxmox, Docker, Kubernetes, Sonatype Nexus, Jenkins, Terraform, ArgoCD, Phometheus y Grafana.
 
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
