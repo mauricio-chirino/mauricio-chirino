@@ -28,11 +28,11 @@ Además, ¡el hosting está incluido! Así, puedes concentrarte en lo que realme
 
 
 ## Habilidades y conocimientos
-A lo largo del tiempo, he desarrollado habilidades en el desarrollo Full Stack utilizando Ruby on Rails. En el frontend, he trabajado con HTML, CSS, JavaScript y Bootstrap para crear experiencias web dinámicas y atractivas. En el backend, he utilizado Ruby, Rails, PostgreSQL y MongoDB para construir aplicaciones web sólidas y escalables.
+AA lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
 
-Además, he dominado herramientas esenciales para el desarrollo web como VsCode, Git, GitHub, Postman y Amazon AWS. No solo me he enfocado en las habilidades técnicas, sino que también he aprendido metodologías de trabajo colaborativo como Scrum, Kanban y Design Thinking, lo que me prepara para abordar proyectos de manera efectiva y creativa.
+He perfeccionado el uso de herramientas clave para el desarrollo web, como Visual Studio Code, Git, GitHub, Postman y Amazon AWS. Además, integro metodologías ágiles de trabajo colaborativo como Scrum, Kanban y Design Thinking, lo que me permite abordar proyectos con eficiencia y creatividad.
 
-También he recibido formación en DevOps por la universidad nacional de Cordoba para la creación y manejo de infraestructura, usando herramientas como Proxmox, Docker, Kubernetes, Sonatype Nexus, Jenkins, Terraform, ArgoCD, Phometheus y Grafana.
+Complementando mis habilidades técnicas, obtuve una formación sólida en DevOps a través de la Universidad Nacional de Córdoba. Esto me ha permitido manejar infraestructura con herramientas como Proxmox, Docker, Kubernetes, Sonatype Nexus, Jenkins, Terraform, ArgoCD, Prometheus y Grafana.
 
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
