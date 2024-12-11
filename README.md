@@ -21,9 +21,9 @@
 - **[prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
 - **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
 ...
-
+...
+...
 ## Proyectos en desarrollo
-
 
 [mipublicidad.com ](https://mipublicidad.com): Estoy al frente de este equipo de desarrollo. Es una plataforma súper innovadora en el sector de email marketing, usando geolocalización para hacer la publicidad más sencilla y efectiva para las pequeñas empresas.
 
