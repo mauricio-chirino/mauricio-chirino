@@ -13,7 +13,7 @@
 ## Tabla de Contenido
 
 - [Proyectos](#Proyectos-en-desarrollo)
-- [Habilidades y conocimientos](#habilidades)
+- [Habilidades y conocimientos](#habilidades-y-conocimientos)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
