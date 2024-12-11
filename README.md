@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-chirino&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-chirino" /> </p>
 
 
+
 # Table de contenidos
 
 
@@ -11,7 +12,7 @@
 
 ## Tabla de Contenido
 
-- [Proyectos](#Proyectos)
+- [Proyectos](#Proyectos-en-desarrollo)
 - [Habilidades y conocimientos](#habilidades)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
@@ -22,7 +23,8 @@
 - **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
 
 
-## Proyectos en desarrollo
+## Proyectos en desarrollo 
+
 
 [mipublicidad.com ](https://mipublicidad.com): Estoy al frente de este equipo de desarrollo. Es una plataforma súper innovadora en el sector de email marketing, usando geolocalización para hacer la publicidad más sencilla y efectiva para las pequeñas empresas.
 
