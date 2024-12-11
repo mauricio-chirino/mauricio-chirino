@@ -33,8 +33,6 @@
 
 
 
-Además, ¡el hosting está incluido! Así, puedes concentrarte en lo que realmente importa: hacer crecer tu negocio, mientras nosotros nos encargamos de los aspectos técnicos. Con tu webfacil, tendrás todo lo que necesitas para que tu empresa brille en Internet, sin complicaciones.
-
 
 ## Habilidades y conocimientos
 A lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
