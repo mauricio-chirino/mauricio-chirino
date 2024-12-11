@@ -72,6 +72,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ---
 
 ## 🌐 Conéctate conmigo:
+Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](link_a_tu_LinkedIn)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)
 
