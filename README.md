@@ -10,7 +10,7 @@
 - [Habilidades y conocimientos](#habilidades-y-conocimientos)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
-- [Contacto](#Proyecto-Conectate-conmigo)
+- [Contacto](#Conectate-conmigo)
 
 ## Proyectos destacados:
 - **[prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
@@ -41,7 +41,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 
 ## Tecnologías y herramientas:
 
-## Desarrollo:
+## Desarrollo
 ![Ruby on Rails](https://img.shields.io/badge/Frameworks-Ruby%20on%20Rails-red)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![Git](https://img.shields.io/badge/Control_de_versiones-Git-orange)
@@ -49,7 +49,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ![Postman](https://img.shields.io/badge/Testing-Postman-orange)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 
-## DevOps y Cloud:
+## DevOps y Cloud
 ![Proxmox](https://img.shields.io/badge/Virtualización-Proxmox-orange)
 ![Docker](https://img.shields.io/badge/Contenedores-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Orquestación-Kubernetes-blueviolet)
@@ -61,13 +61,13 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ![Grafana](https://img.shields.io/badge/Dashboarding-Grafana-lightblue)
 
 
-## Estadísticas:
+## Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-chirino&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chirino&layout=compact&theme=radical)
 
 ---
 
-## Conectate conmigo:
+## Conectate conmigo
 Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/mauricio-chirino)
