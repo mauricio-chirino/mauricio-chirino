@@ -11,7 +11,7 @@
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Contacto](#Conectate-conmigo)
-<br/>
+  
 ## Proyectos destacados:
 - **[prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
 - **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
@@ -38,7 +38,7 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
-## <span style="color:blue;">Lenguajes más usados</span>
+
 ## Tecnologías y herramientas:
 
 ## Desarrollo
