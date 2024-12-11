@@ -74,6 +74,32 @@ Git GitHub GitLab
 
 
 
+# 👋 Hola, soy Mauricio Chirino!
+### 👨‍💻 Desarrollador apasionado por [temas específicos: ej., backend, frontend, IA, etc.]
+---
+
+## 🔧 Tecnologías y herramientas:
+![Lenguajes](https://img.shields.io/badge/Lenguajes-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-React%20%7C%20Django%20%7C%20Node.js-brightgreen)
+![Bases de Datos](https://img.shields.io/badge/Bases_de_Datos-MySQL%20%7C%20PostgreSQL-orange)
+
+## 🌟 Proyectos destacados:
+- **[Nombre del Proyecto 1](link_a_tu_repo):** Breve descripción (problema resuelto, herramientas usadas)
+- **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
+...
+
+## 📈 Estadísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-chirino&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chirino&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](link_a_tu_LinkedIn)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)
+
+
+
 
 
 
