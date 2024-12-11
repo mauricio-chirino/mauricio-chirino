@@ -43,6 +43,26 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
 
+## 🔧 Tecnologías y herramientas:
+
+### 👨‍💻 Desarrollo:
+![Ruby on Rails](https://img.shields.io/badge/Frameworks-Ruby%20on%20Rails-red)
+![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
+![Git](https://img.shields.io/badge/Control_de_versiones-Git-orange)
+![GitHub](https://img.shields.io/badge/Repositorio-GitHub-lightgrey)
+![Postman](https://img.shields.io/badge/Testing-Postman-orange)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
+
+### 🚀 DevOps y Cloud:
+![Proxmox](https://img.shields.io/badge/Virtualización-Proxmox-orange)
+![Docker](https://img.shields.io/badge/Contenedores-Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Orquestación-Kubernetes-blueviolet)
+![Sonatype Nexus](https://img.shields.io/badge/Repositorios_de_dependencias-Nexus-yellowgreen)
+![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-red)
+![Terraform](https://img.shields.io/badge/Infraestructura-Terraform-darkgreen)
+![ArgoCD](https://img.shields.io/badge/Despliegue-ArgoCD-blue)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-critical)
+![Grafana](https://img.shields.io/badge/Dashboarding-Grafana-lightblue)
 
 
 ## 📈 Estadísticas:
