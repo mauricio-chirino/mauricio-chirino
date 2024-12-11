@@ -43,9 +43,9 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
 
-## 🔧 Tecnologías y herramientas:
+## Tecnologías y herramientas:
 
-### 👨‍💻 Desarrollo:
+## Desarrollo:
 ![Ruby on Rails](https://img.shields.io/badge/Frameworks-Ruby%20on%20Rails-red)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![Git](https://img.shields.io/badge/Control_de_versiones-Git-orange)
@@ -53,7 +53,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ![Postman](https://img.shields.io/badge/Testing-Postman-orange)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 
-### 🚀 DevOps y Cloud:
+## DevOps y Cloud:
 ![Proxmox](https://img.shields.io/badge/Virtualización-Proxmox-orange)
 ![Docker](https://img.shields.io/badge/Contenedores-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Orquestación-Kubernetes-blueviolet)
