@@ -25,8 +25,6 @@
 ## Proyectos en desarrollo
 
 
-[prende.cl](https://prende.aniracloud.com/): Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
-
 [mipublicidad.com ](https://mipublicidad.com): Estoy al frente de este equipo de desarrollo. Es una plataforma súper innovadora en el sector de email marketing, usando geolocalización para hacer la publicidad más sencilla y efectiva para las pequeñas empresas.
 
 [tuwebfacil.cl ](https://tuwebfacil.cl): es la herramienta perfecta para que las pequeñas y medianas empresas creen su propio sitio web de manera rápida y sencilla. Con nuestras plantillas personalizables, no necesitas ser un experto en tecnología para tener una presencia profesional en línea. 
