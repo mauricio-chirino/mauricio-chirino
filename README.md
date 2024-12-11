@@ -49,6 +49,20 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ![Postman](https://img.shields.io/badge/Testing-Postman-orange)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 
+
+
+
+![Frameworks](https://img.shields.io/badge/Frameworks-Ruby%20on%20Rails-red)  
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue)  
+![Control de versiones](https://img.shields.io/badge/Control_de_versiones-Git-orange)  
+![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-lightgrey)  
+![Testing](https://img.shields.io/badge/Testing-Postman-orange)  
+![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
+
+
+
+
+
 ## DevOps y Cloud
 ![Proxmox](https://img.shields.io/badge/Virtualización-Proxmox-orange)
 ![Docker](https://img.shields.io/badge/Contenedores-Docker-blue)
