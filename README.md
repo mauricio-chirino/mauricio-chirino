@@ -43,6 +43,40 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
 
+
+
+## 📈 Estadísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-chirino&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chirino&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](link_a_tu_LinkedIn)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Contacto
 
 
