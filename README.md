@@ -38,7 +38,7 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 
 Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup, he aprendido a crear un portafolio profesional y atractivo.
 
-
+## <span style="color:blue;">Lenguajes más usados</span>
 ## Tecnologías y herramientas:
 
 ## Desarrollo
