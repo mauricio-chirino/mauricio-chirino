@@ -61,13 +61,13 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 ![Grafana](https://img.shields.io/badge/Dashboarding-Grafana-lightblue)
 
 
-## 📈 Estadísticas:
+## Estadísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-chirino&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chirino&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Conectate conmigo:
+## Conectate conmigo:
 Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/mauricio-chirino)
