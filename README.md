@@ -4,12 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-chirino&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-chirino" /> </p>
 
 
-
-# Table de contenidos
-
-
-# Proyecto Conectate conmigo
-
 ## Tabla de Contenido
 
 - [Proyectos](#Proyectos-en-desarrollo)
