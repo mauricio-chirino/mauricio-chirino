@@ -20,9 +20,8 @@
 ## Proyectos destacados:
 - **[prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
 - **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
-...
-...
-...
+
+
 ## Proyectos en desarrollo
 
 [mipublicidad.com ](https://mipublicidad.com): Estoy al frente de este equipo de desarrollo. Es una plataforma súper innovadora en el sector de email marketing, usando geolocalización para hacer la publicidad más sencilla y efectiva para las pequeñas empresas.
@@ -56,6 +55,13 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 
 Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg)](https://www.linkedin.com/in/mauricio-chirino/)
+
+
+
+
+## 🌐 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](link_a_tu_LinkedIn)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)
 
 
 
