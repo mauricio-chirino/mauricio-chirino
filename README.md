@@ -17,6 +17,11 @@
 - [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
 
+## 🌟 Proyectos destacados:
+- **[prende.cl](https://prende.aniracloud.com):** Breve descripción (problema resuelto, herramientas usadas)
+- **[Nombre del Proyecto 2](link_a_tu_repo):** Breve descripción
+...
+
 ## Proyectos en desarrollo
 
 
