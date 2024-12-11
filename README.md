@@ -16,7 +16,7 @@
 - [Habilidades y conocimientos](#habilidades-y-conocimientos)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
+- [Contacto](#conectate-conmigo)
 
 ## Proyectos destacados:
 - **[prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
@@ -73,7 +73,7 @@ Para mostrar mis proyectos y habilidades, así como en aspectos de emprendimient
 
 ---
 
-## 🌐 Conéctate conmigo:
+## 🌐 Conectate conmigo:
 Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/mauricio-chirino)
