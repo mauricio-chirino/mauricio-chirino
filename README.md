@@ -30,7 +30,7 @@
 
 [almacena.aniracloud.com](https://almacena.aniracloud.com): es una plataforma en línea para almacenar informacion.
 
-[abira.cl](https://anira.cl): Es un prototipo de navegacion Horizontal creado principalmente para probocar impacto en la navegacion tradicional y presentacion de informacion.
+[anira.cl](https://anira.cl): Es un prototipo de navegacion Horizontal creado principalmente para probocar impacto en la navegacion tradicional y presentacion de informacion.
 
 
 
