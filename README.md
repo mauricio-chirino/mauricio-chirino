@@ -35,7 +35,7 @@
 [maileraction.com](https://maileraction.com): MailerAction es una plataforma SaaS de email marketing que permite crear y enviar campañas segmentadas por industria, sin exponer listas de correos. Utiliza IA y automatización, soporta múltiples idiomas y ofrece estadísticas en tiempo real.  MailerAction is a SaaS email marketing platform for creating and sending industry-targeted campaigns without exposing email lists. It features AI-driven automation, multilingual support, and real-time analytics.
 
 
-[propiedades360.cl](https://propiedades360.cl): MailerAction es una plataforma SaaS de email marketing que permite crear y enviar campañas segmentadas por industria, sin exponer listas de correos. Utiliza IA y automatización, soporta múltiples idiomas y ofrece estadísticas en tiempo real.  MailerAction is a SaaS email marketing platform for creating and sending industry-targeted campaigns without exposing email lists. It features AI-driven automation, multilingual support, and real-time analytics.
+[propiedades360.cl](https://propiedades360.cl): Propiedades360 es una plataforma web desarrollada en Rails que permite a empresas inmobiliarias gestionar, publicar y monitorear sus propiedades de forma eficiente, accesible y trazable. Diseñada con una arquitectura multi-tenant, integra un sistema visual adaptable, flujos CI/CD robustos y monitoreo semántico para garantizar estabilidad, personalización y control total del ciclo de vida de cada tenant. Stack tecnológico Ruby on Rails · PostgreSQL · Turbo · Stimulus · Bootstrap · GitHub Actions · ArgoCD · Kubernetes · Prometheus · Grafana.
 
 
 
