@@ -27,7 +27,7 @@ Flujos reproducibles, seguros y trazables que permiten escalar procesos de forma
 
 ---
 
-### 💌 Campañas emocionalmente inteligentes
+### Podemos crear campañas emocionalmente inteligentes
 
 Cada email se adapta al perfil emocional del usuario, utilizando **storytelling**, **branding** y **segmentación** para lograr una conexión auténtica. No es solo marketing: es **resonancia emocional**.
 
