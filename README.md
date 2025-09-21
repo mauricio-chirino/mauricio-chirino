@@ -4,6 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-chirino&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-chirino" /> </p>
 
 
+## En que estoy ahora
+Today: Construyendo el Motor Emocional del Email Marketing
+🧠 MailerAction: Email Marketing con Inteligencia Emocional MailerAction es una plataforma de email marketing impulsada por inteligencia artificial, diseñada para interpretar emociones, segmentar audiencias con precisión y generar campañas que conectan profundamente con cada destinatario.
+
+🚀 ¿Qué estamos construyendo?
+Motor Inteligente (Intelligent Engine) Un sistema propietario que enriquece datos en tiempo real, interpreta señales emocionales y genera recomendaciones personalizadas para cada campaña. Este motor maximiza la relevancia y el impacto emocional de cada envío.
+
+Automatización modular Flujos reproducibles, seguros y trazables que permiten escalar procesos de forma colaborativa, manteniendo consistencia y claridad técnica.
+
+Campañas emocionalmente inteligentes Cada email se adapta al perfil emocional del usuario, utilizando storytelling, branding y segmentación para lograr una conexión auténtica. No es solo marketing: es resonancia emocional.
+
+Demos interactivas y comunidad técnica Estamos diseñando experiencias en tiempo real para mostrar cómo funciona el motor inteligente, mientras creamos y conectamos comunidades como n8n Chile, con identidad visual y emocional propia.
+
+
+
 ## Tabla de Contenido
 
 - [Proyectos](#Proyectos-en-desarrollo)
