@@ -12,24 +12,23 @@
 
 MailerAction es una plataforma de email marketing impulsada por inteligencia artificial, diseñada para interpretar emociones, segmentar audiencias con precisión y generar campañas que conectan profundamente con cada destinatario.
 
----
 
-- ¿Cómo funciona?
+- **¿Cómo funciona?**
 
 El centro de nuestra tecnología se denomina **Intelligent Engine** (Tecnología Patentada).  
 Este es un sistema propietario que enriquece datos en tiempo real, interpreta señales emocionales y genera recomendaciones personalizadas para cada campaña. Este motor maximiza la relevancia y el impacto emocional de cada envío.
 
 
-- Automatización modular
+- **Automatización modular**
 
 Flujos reproducibles, seguros y trazables que permiten escalar procesos de forma colaborativa, manteniendo consistencia y claridad técnica.
 
 
-- Podemos crear campañas emocionalmente inteligentes
+- **Podemos crear campañas emocionalmente inteligentes**
 
 Cada email se adapta al perfil emocional del usuario, utilizando **storytelling**, **branding** y **segmentación** para lograr una conexión auténtica. No es solo marketing: es **resonancia emocional**.
 
----
+
 
 
 
