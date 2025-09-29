@@ -26,7 +26,7 @@ Este es un sistema propietario que enriquece datos en tiempo real, interpreta se
 <br>
 
 
-### Tenavor: Inteligencia Comercial que Conecta
+### 🧠 Tenavor: Inteligencia Comercial que Conecta
 Tenavor es una plataforma de ventas B2B diseñada para equipos comerciales que buscan precisión, velocidad y profundidad en su prospección. Impulsada por inteligencia artificial, Tenavor transforma la forma en que las empresas encuentran, conectan y convierten prospectos en oportunidades reales.
 
 #### **¿Qué hace Tenavor?**
