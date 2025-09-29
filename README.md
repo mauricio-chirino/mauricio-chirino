@@ -21,20 +21,22 @@ Este es un sistema propietario que enriquece datos en tiempo real, interpreta se
 
 
 - **Podemos crear campañas emocionalmente inteligentes** Cada email se adapta al perfil emocional del usuario, utilizando **storytelling**, **branding** y **segmentación** para lograr una conexión auténtica. No es solo marketing: es **resonancia emocional**.
-
+<br>
+<br>
+<br>
 
 
 ### Tenavor: Inteligencia Comercial que Conecta
 Tenavor es una plataforma de ventas B2B diseñada para equipos comerciales que buscan precisión, velocidad y profundidad en su prospección. Impulsada por inteligencia artificial, Tenavor transforma la forma en que las empresas encuentran, conectan y convierten prospectos en oportunidades reales.
 
 #### **¿Qué hace Tenavor?**
-Prospección inteligente: Encuentra leads altamente relevantes usando filtros avanzados por industria, cargo, ubicación y más.
+- **Prospección inteligente:** Encuentra leads altamente relevantes usando filtros avanzados por industria, cargo, ubicación y más.
 
-Base de datos enriquecida: Accede a más de 250 millones de contactos y 35 millones de empresas con datos verificados (emails, teléfonos, LinkedIn).
+- **Base de datos enriquecida:** Accede a más de 250 millones de contactos y 35 millones de empresas con datos verificados (emails, teléfonos, LinkedIn).
 
-Automatización multicanal: Configura secuencias automáticas de correos, llamadas, mensajes y tareas de seguimiento.
+- **Automatización multicanal:** Configura secuencias automáticas de correos, llamadas, mensajes y tareas de seguimiento.
 
-Análisis de rendimiento: Mide el impacto de tus campañas y optimiza cada interacción.
+- **Análisis de rendimiento:** Mide el impacto de tus campañas y optimiza cada interacción.
 
 🔗 Integración con MailerAction
 Tenavor puede entregar prospectos directamente a MailerAction, potenciando campañas de email marketing con datos precisos y segmentados. Aunque están diseñadas para complementarse, Tenavor y MailerAction funcionan como aplicaciones independientes, permitiendo a cada equipo elegir la herramienta que mejor se adapta a su flujo de trabajo.
@@ -51,6 +53,7 @@ Seguimiento por email
 Inteligencia sobre rendimiento comercial
 
 
+<br>
 <br>
 
 
