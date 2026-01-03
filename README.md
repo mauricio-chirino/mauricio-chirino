@@ -26,20 +26,20 @@ Este es un sistema propietario que enriquece datos en tiempo real, interpreta se
 <br>
 
 
-### 🧠 Tenavor: Inteligencia Comercial que Conecta
-Tenavor es una plataforma de ventas B2B diseñada para equipos comerciales que buscan precisión, velocidad y profundidad en su prospección. Impulsada por inteligencia artificial, Tenavor transforma la forma en que las empresas encuentran, conectan y convierten prospectos en oportunidades reales.
+### 🧠 Tenavor: Plataforma de Prospección Inteligente  
+Encuentra leads de calidad, automatiza tu proceso de ventas y escala tu negocio con la potencia de la IA.  
 
-#### **¿Qué hace Tenavor?**
-- **Prospección inteligente:** Encuentra leads altamente relevantes usando filtros avanzados por industria, cargo, ubicación y más.
+Tenavor no es solo una herramienta: es un **motor modular de inteligencia comercial** que transforma la prospección en un proceso ágil, trazable y escalable. Con filtros avanzados, datos verificados y automatización multicanal, Tenavor permite a los equipos comerciales pasar de la búsqueda manual a la **conexión estratégica**.  
 
-- **Base de datos enriquecida:** Accede a más de 250 millones de contactos y 35 millones de empresas con datos verificados (emails, teléfonos, LinkedIn).
+#### **Nuestra propuesta**  
+- **Leads de calidad:** Identificación precisa de prospectos relevantes con señales públicas y segmentación avanzada.  
+- **Automatización inteligente:** Flujos multicanal que integran correos, llamadas y mensajes con lógica de fallback.  
+- **Escalabilidad real:** Documentación y procesos reproducibles que permiten crecer sin perder control ni trazabilidad.  
+- **Potencia de la IA:** Validación y enriquecimiento continuo de datos para maximizar la conversión.  
 
-- **Automatización multicanal:** Configura secuencias automáticas de correos, llamadas, mensajes y tareas de seguimiento.
+🔗 **MailerAction como capa de activación**  
+Tenavor se integra con **MailerAction**, potenciando campañas de email marketing con datos precisos y segmentados. Juntas, forman un ecosistema de prospección y activación comercial, pero cada aplicación puede funcionar de manera independiente según las necesidades del equipo.  
 
-- **Análisis de rendimiento:** Mide el impacto de tus campañas y optimiza cada interacción.
-
-🔗 Integración con MailerAction
-Tenavor puede entregar prospectos directamente a MailerAction, potenciando campañas de email marketing con datos precisos y segmentados. Aunque están diseñadas para complementarse, Tenavor y MailerAction funcionan como aplicaciones independientes, permitiendo a cada equipo elegir la herramienta que mejor se adapta a su flujo de trabajo.
 
 🧩 Casos de uso
 Generación de listas de prospectos
