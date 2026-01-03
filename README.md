@@ -26,35 +26,33 @@ Este es un sistema propietario que enriquece datos en tiempo real, interpreta se
 <br>
 
 
-### 🧠 Tenavor: Plataforma de Prospección Inteligente  
+### 🧠 Tenavor: Plataforma de Prospección Inteligente para Latinoamérica  
 Encuentra leads de calidad, automatiza tu proceso de ventas y escala tu negocio con la potencia de la IA.  
 
-Tenavor no es solo una herramienta: es un **motor modular de inteligencia comercial** que transforma la prospección en un proceso ágil, trazable y escalable. Con filtros avanzados, datos verificados y automatización multicanal, Tenavor permite a los equipos comerciales pasar de la búsqueda manual a la **conexión estratégica**.  
+Tenavor no es solo una herramienta: es un **motor modular de inteligencia comercial** diseñado específicamente para el mercado latinoamericano. Transforma la prospección en un proceso ágil, trazable y escalable, adaptado a las particularidades de la región. Con filtros avanzados, datos verificados y automatización multicanal, Tenavor permite a los equipos comerciales pasar de la búsqueda manual a la **conexión estratégica**.  
 
 #### **Nuestra propuesta**  
-- **Leads de calidad:** Identificación precisa de prospectos relevantes con señales públicas y segmentación avanzada.  
-- **Automatización inteligente:** Flujos multicanal que integran correos, llamadas y mensajes con lógica de fallback.  
+- **Leads de calidad en LATAM:** Identificación precisa de prospectos relevantes con señales públicas y segmentación avanzada por industria, cargo y ubicación en Latinoamérica.  
+- **Datos enriquecidos y verificados:** Correos electrónicos validados, detección de patrones de entrega, dominios corporativos y fuentes confiables para asegurar que cada contacto sea real y utilizable.  
+- **Extracción a gran escala:** Acceso a información pública y corporativa en tiempo real, con capacidad de mapear millones de registros para enriquecer bases de datos y CRM en la región.  
+- **Automatización inteligente:** Flujos multicanal que integran correos, llamadas y mensajes con lógica de fallback y personalización multilingüe (español, portugués, inglés).  
 - **Escalabilidad real:** Documentación y procesos reproducibles que permiten crecer sin perder control ni trazabilidad.  
-- **Potencia de la IA:** Validación y enriquecimiento continuo de datos para maximizar la conversión.  
+- **Potencia de la IA:** Validación y enriquecimiento continuo de datos para maximizar la conversión en mercados latinoamericanos.  
 
 🔗 **MailerAction como capa de activación**  
-Tenavor se integra con **MailerAction**, potenciando campañas de email marketing con datos precisos y segmentados. Juntas, forman un ecosistema de prospección y activación comercial, pero cada aplicación puede funcionar de manera independiente según las necesidades del equipo.  
+Tenavor se integra con **MailerAction**, potenciando campañas de email marketing con datos precisos y segmentados. Juntas, forman un ecosistema de prospección y activación comercial para Latinoamérica, pero cada aplicación puede funcionar de manera independiente según las necesidades del equipo.  
 
-
-🧩 Casos de uso
-Generación de listas de prospectos
-
-Campañas outbound automatizadas
-
-Enriquecimiento de datos en CRM
-
-Seguimiento por email
-
-Inteligencia sobre rendimiento comercial
-
+🧩 **Casos de uso en Latinoamérica**  
+- Generación de listas de prospectos altamente segmentadas en mercados regionales  
+- Campañas outbound automatizadas con seguimiento inteligente  
+- Enriquecimiento y validación de datos en CRM locales  
+- Extracción masiva de información pública para ampliar mercados en LATAM  
+- Secuencias de seguimiento por email con entregabilidad optimizada  
+- Inteligencia sobre rendimiento comercial y trazabilidad de interacciones  
 
 <br>
 <br>
+
 
 
 ## Tabla de Contenido
@@ -75,7 +73,8 @@ Inteligencia sobre rendimiento comercial
 ## Proyectos en desarrollo 
 
 
-[mipublicidad.com ](https://mipublicidad.com): Estoy al frente de este equipo de desarrollo. Es una plataforma súper innovadora en el sector de email marketing, usando geolocalización para hacer la publicidad más sencilla y efectiva para las pequeñas empresas.
+[tenavor.tech](https://tenavor.tech): Estoy al frente de este equipo de desarrollo. Es una plataforma innovadora en el sector de prospección B2B, diseñada exclusivamente para Latinoamérica. Con inteligencia artificial y automatización multicanal, Tenavor hace que la búsqueda y conexión con prospectos sea más sencilla, precisa y efectiva para las empresas que buscan crecer en la región.
+
 
 [tuwebfacil.cl ](https://tuwebfacil.cl): es la herramienta perfecta para que las pequeñas y medianas empresas creen su propio sitio web de manera rápida y sencilla. Con nuestras plantillas personalizables, no necesitas ser un experto en tecnología para tener una presencia profesional en línea. 
 
