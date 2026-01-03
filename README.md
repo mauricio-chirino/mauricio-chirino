@@ -132,13 +132,12 @@ Complementando mis habilidades técnicas, obtuve una formación sólida en DevOp
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-chirino&layout=compact&theme=radical)
 
 ---
-
-## Conectate conmigo
+## Conéctate conmigo
 Puedes ponerte en contacto conmigo en [mchirino@aniracloud.com](mailto:mchirino@aniracloud.com).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/mauricio-chirino)
-[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mauricio-chirino)  
+[![Portfolio](https://img.shields.io/badge/Portafolio-Ver%20Más-orange)](link_a_tu_portafolio)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+56935004901-green)](https://wa.me/56935004901)
 
 
 
