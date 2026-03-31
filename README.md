@@ -98,8 +98,13 @@ Tenavor se integra con **MailerAction**, potenciando campañas de email marketin
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Contacto](#Conectate-conmigo)
-  
+
+
 ## Proyectos destacados:
+
+
+- **[Hablame.lat](https://hablame.lat):** Desarrollé esta plataforma SaaS utilizando Ruby on Rails y un motor RAG nativo para Tenavor LLC. HablaMe está enfocada en inteligencia artificial conversacional para empresas e instituciones en Latinoamérica. Ofrece soluciones en áreas como atención ciudadana, soporte corporativo, e-commerce y educación, integrándose en canales como Web, WhatsApp, iFrame y API REST.
+  
 - **[Prende.cl](https://prende.aniracloud.com):** Desarrolle este sitio web utilizando el Frameworks Wordpress para la empresa prende, Esta empresa enfocado en servicios de marketing y organización de eventos. Ofrece soluciones en áreas como Eventos, Trade Marketing, BTL (Below the Line) y estrategias digitales. 
 
 
