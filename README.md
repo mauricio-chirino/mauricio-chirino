@@ -4,23 +4,59 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-chirino&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-chirino" /> </p>
 
 
-## En qué estoy ahora
+# En qué estoy ahora
+🗣️ Construyendo la Plataforma Conversacional de Latinoamérica
 
-### 🚀 Construyendo el Motor Emocional del Email Marketing
+## HablaMe: Asistentes de IA que hablan tu idioma
+HablaMe es una plataforma SaaS de inteligencia artificial conversacional diseñada para empresas, instituciones y organismos públicos en Latinoamérica.  
+Nuestro objetivo es simple pero poderoso: que cada organización pueda crear un asistente de IA en minutos, entrenado con su propio conocimiento, capaz de responder 24/7 en español, portugués o inglés.
 
-#### **MailerAction: Email Marketing con Inteligencia Emocional**
+---
 
-MailerAction es una plataforma de email marketing impulsada por inteligencia artificial, diseñada para interpretar emociones, segmentar audiencias con precisión y generar campañas que conectan profundamente con cada destinatario.
+### 🚀 ¿Cómo funciona?
+El corazón de nuestra tecnología es un motor **RAG nativo** (Retrieval-Augmented Generation).  
+Este sistema procesa documentos oficiales, manuales y políticas internas para que el asistente responda siempre con información verificada, citando sus fuentes.  
+No inventa, no especula: entrega respuestas confiables y contextualizadas.
 
+- **Automatización modular**: Flujos reproducibles y seguros que permiten escalar sin perder trazabilidad.  
+- **Integración inmediata**: Web, WhatsApp, iFrame o API REST en menos de 24 horas.  
+- **Analítica inteligente**: Métricas de satisfacción, consumo de créditos y preguntas frecuentes para mejorar continuamente.  
 
-- **¿Cómo funciona?** El centro de nuestra tecnología se denomina **Intelligent Engine** (Tecnología Patentada).  
-Este es un sistema propietario que enriquece datos en tiempo real, interpreta señales emocionales y genera recomendaciones personalizadas para cada campaña. Este motor maximiza la relevancia y el impacto emocional de cada envío.
+---
 
+### 🎯 Nuestra propuesta
+- **Acceso democrático a la IA**: Planes desde $49 USD/mes, con soporte en español y pagos locales.  
+- **Conocimiento propio como ventaja**: Cada asistente responde solo con la información de la organización.  
+- **Escalabilidad real**: Multi-tenant para agencias, on-premise para corporativos, y soporte 24/7 en español.  
 
-- **Automatización modular** Flujos reproducibles, seguros y trazables que permiten escalar procesos de forma colaborativa, manteniendo consistencia y claridad técnica.
+---
 
+### 🧩 Casos de uso en Latinoamérica
+- Ministerios y municipalidades que atienden miles de consultas ciudadanas.  
+- Universidades y colegios en períodos de matrícula.  
+- PyMEs con e-commerce que reciben cientos de mensajes por WhatsApp.  
+- Empresas medianas que necesitan múltiples asistentes para RRHH, TI y ventas.  
+- Agencias digitales que revenden asistentes como servicio.  
 
-- **Podemos crear campañas emocionalmente inteligentes** Cada email se adapta al perfil emocional del usuario, utilizando **storytelling**, **branding** y **segmentación** para lograr una conexión auténtica. No es solo marketing: es **resonancia emocional**.
+---
+
+### 📈 Roadmap 2026-2027
+- **Q2 2026**: Estabilidad y fundamentos (facturación automática, deduplicación, dashboard mejorado).  
+- **Q3 2026**: Integraciones y ecosistema (webhooks, CRMs, API v2, chunking semántico).  
+- **Q4 2026**: Escala y nuevos canales (Slack, Teams, memoria persistente, multimodal visión).  
+- **H1 2027**: Expansión y diferenciación (agentes con acción, white-label, marketplace de plantillas, freemium, multi-región).  
+
+---
+
+✨ **HablaMe no es solo un chatbot. Es la capa conversacional que conecta empresas e instituciones con sus usuarios, ciudadanos y clientes en su propio idioma, con información oficial y confiable.**
+
+---
+
+## 📬 Contacto
+- 🌐 Web: [hablame.lat](https://hablame.lat)  
+- ✉️ Email: hola@hablame.lat  
+- 🔗 LinkedIn: Tenavor SpA
+
 <br>
 <br>
 <br>
