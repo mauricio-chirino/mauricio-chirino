@@ -55,7 +55,7 @@ No inventa, no especula: entrega respuestas confiables y contextualizadas.
 ## 📬 Contacto
 - 🌐 Web: [hablame.lat](https://hablame.lat)  
 - ✉️ Email: hola@hablame.lat  
-- 🔗 LinkedIn: Tenavor SpA
+- 🔗 LinkedIn: Tenavor LLC
 
 <br>
 <br>
