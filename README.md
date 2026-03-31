@@ -137,16 +137,17 @@ Tenavor se integra con **MailerAction**, potenciando campañas de email marketin
 ## Proyectos en desarrollo 
 
 
+[hablame.lat](https://hablame.lat):hablame.lat: Estoy liderando el desarrollo de esta plataforma SaaS de inteligencia artificial conversacional, creada para democratizar el acceso a asistentes de IA en Latinoamérica. HablaMe permite que empresas, instituciones y organismos públicos desplieguen asistentes entrenados con su propio conocimiento, integrados en canales como web, WhatsApp y API. Con tecnología RAG nativa, soporte en español y pagos locales, HablaMe convierte la atención repetitiva en respuestas confiables, inmediatas y disponibles 24/7.
+
+
 [tenavor.tech](https://tenavor.tech): Estoy al frente de este equipo de desarrollo. Es una plataforma innovadora en el sector de prospección B2B, diseñada exclusivamente para Latinoamérica. Con inteligencia artificial y automatización multicanal, Tenavor hace que la búsqueda y conexión con prospectos sea más sencilla, precisa y efectiva para las empresas que buscan crecer en la región.
 
 
-[tuwebfacil.cl ](https://tuwebfacil.cl): es la herramienta perfecta para que las pequeñas y medianas empresas creen su propio sitio web de manera rápida y sencilla. Con nuestras plantillas personalizables, no necesitas ser un experto en tecnología para tener una presencia profesional en línea. 
-
-[sievertpropiedades.cl ](https://sievertpropiedades.cl): es una plataforma en línea para la publicación y búsqueda de propiedades inmobiliarias especialmente en Chile.
-
 [almacena.aniracloud.com](https://almacena.aniracloud.com): es una plataforma en línea para almacenar informacion.
 
+
 [anira.cl](https://anira.aniracloud.com): Es un prototipo de navegacion Horizontal creado principalmente para probocar impacto en la navegacion tradicional y presentacion de informacion.
+
 
 [maileraction.com](https://maileraction.com): MailerAction es una plataforma SaaS de email marketing que permite crear y enviar campañas segmentadas por industria, sin exponer listas de correos. Utiliza IA y automatización, soporta múltiples idiomas y ofrece estadísticas en tiempo real.  MailerAction is a SaaS email marketing platform for creating and sending industry-targeted campaigns without exposing email lists. It features AI-driven automation, multilingual support, and real-time analytics.
 
