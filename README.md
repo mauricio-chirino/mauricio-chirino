@@ -153,7 +153,6 @@ Tenavor se integra con **MailerAction**, potenciando campañas de email marketin
 [maileraction.com](https://maileraction.com): MailerAction es una plataforma SaaS de email marketing que permite crear y enviar campañas segmentadas por industria, sin exponer listas de correos. Utiliza IA y automatización, soporta múltiples idiomas y ofrece estadísticas en tiempo real.  MailerAction is a SaaS email marketing platform for creating and sending industry-targeted campaigns without exposing email lists. It features AI-driven automation, multilingual support, and real-time analytics.
 
 
-[
 ## Habilidades y conocimientos
 A lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
 
