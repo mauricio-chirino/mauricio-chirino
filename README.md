@@ -137,7 +137,8 @@ Tenavor se integra con **MailerAction**, potenciando campañas de email marketin
 ## Proyectos en desarrollo 
 
 
-[hablame.lat](https://hablame.lat):hablame.lat: Estoy liderando el desarrollo de esta plataforma SaaS de inteligencia artificial conversacional, creada para democratizar el acceso a asistentes de IA en Latinoamérica. HablaMe permite que empresas, instituciones y organismos públicos desplieguen asistentes entrenados con su propio conocimiento, integrados en canales como web, WhatsApp y API. Con tecnología RAG nativa, soporte en español y pagos locales, HablaMe convierte la atención repetitiva en respuestas confiables, inmediatas y disponibles 24/7.
+[hablame.lat](https://hablame.lat):hablame.lat: Estoy liderando el desarrollo de esta plataforma SaaS de inteligencia artificial conversacional, creada para democratizar el acceso a asistentes de IA en Latinoamérica. HablaMe permite que empresas, instituciones y organismos públicos desplieguen asistentes entrenados con su propio conocimiento, integrados en canales como web, WhatsApp y API. Desarrollada en Rails con tecnología RAG nativa, Diseñada con una arquitectura multi-tenant, integra un sistema visual adaptable, flujos CI/CD robustos y monitoreo semántico para garantizar estabilidad, personalización y control total del ciclo de vida de cada tenant. Stack tecnológico Ruby on Rails · PostgreSQL · MOgodb Atlas · Turbo · Stimulus · Bootstrap · Sneat · GitHub Actions · ArgoCD · Kubernetes · Prometheus · Grafana.
+
 
 
 [tenavor.tech](https://tenavor.tech): Estoy al frente de este equipo de desarrollo. Es una plataforma innovadora en el sector de prospección B2B, diseñada exclusivamente para Latinoamérica. Con inteligencia artificial y automatización multicanal, Tenavor hace que la búsqueda y conexión con prospectos sea más sencilla, precisa y efectiva para las empresas que buscan crecer en la región.
@@ -152,13 +153,7 @@ Tenavor se integra con **MailerAction**, potenciando campañas de email marketin
 [maileraction.com](https://maileraction.com): MailerAction es una plataforma SaaS de email marketing que permite crear y enviar campañas segmentadas por industria, sin exponer listas de correos. Utiliza IA y automatización, soporta múltiples idiomas y ofrece estadísticas en tiempo real.  MailerAction is a SaaS email marketing platform for creating and sending industry-targeted campaigns without exposing email lists. It features AI-driven automation, multilingual support, and real-time analytics.
 
 
-[propiedades360.cl](https://propiedades360.cl): Propiedades360 es una plataforma web desarrollada en Rails que permite a empresas inmobiliarias gestionar, publicar y monitorear sus propiedades de forma eficiente, accesible y trazable. Diseñada con una arquitectura multi-tenant, integra un sistema visual adaptable, flujos CI/CD robustos y monitoreo semántico para garantizar estabilidad, personalización y control total del ciclo de vida de cada tenant. Stack tecnológico Ruby on Rails · PostgreSQL · Turbo · Stimulus · Bootstrap · GitHub Actions · ArgoCD · Kubernetes · Prometheus · Grafana.
-
-
-
-
-
-
+[
 ## Habilidades y conocimientos
 A lo largo de mi carrera, he desarrollado habilidades como desarrollador Full Stack, especializándome en Ruby on Rails. En el frontend, utilizo tecnologías como HTML, CSS, JavaScript y Bootstrap para diseñar experiencias web dinámicas y visualmente atractivas. En el backend, trabajo con Ruby, Rails, PostgreSQL y MongoDB para crear aplicaciones robustas y escalables.
 
